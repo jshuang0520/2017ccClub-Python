@@ -1,6 +1,6 @@
 # ccClub-Python
 
-[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)的[網頁版](https://jshuang0520.github.io/2017ccClub-Python/)
+這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)在ccClub練習的[網頁版](https://jshuang0520.github.io/2017ccClub-Python/)
 
 大綱
 
