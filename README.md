@@ -4,4 +4,5 @@
 
 大綱
 
-- [第一堂](http://nbviewer.jupyter.org/github/jshuang0520/ccClub-Python/blob/master/2017.09.28%20ccClub%20-%201.ipynb)
+- [第一堂作業](http://nbviewer.jupyter.org/github/jshuang0520/ccClub-Python/blob/master/2017.09.28%20ccClub%20-%201.ipynb)
+- [第二堂作業](http://nbviewer.jupyter.org/github/jshuang0520/ccClub-Python/blob/master/2017.10.05%20ccClub%20-%202.ipynb)
